@@ -146,7 +146,7 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 
 - [pyenv](https://github.com/pyenv/pyenv) - Python Version Manager
 
-- [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager *(also see [fnm](https://github.com/Schniz/fnm))*
+- [fnm](https://github.com/Schniz/fnm) - Fast Node Manager, Version Manager for NodeJS
 
 
 #### Other Helpful Links/Info
