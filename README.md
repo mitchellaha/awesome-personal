@@ -177,6 +177,16 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 
 
 
+## React
+
+### Component Libraries
+
+- [Blueprint](https://github.com/palantir/blueprint) - For Building Blocky Informative UIs
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple & Bubbly Component Library
+- [NativeBase](https://github.com/GeekyAnts/nativebase) - Mobile First Component Library. Mainly for React Native
+
+
+
 ## Awesome Lists
 
 *Yo dawg, I heard you like awesome lists, so I put some awesome lists in your awesome list, so you can awesome list while you awesome list.*
