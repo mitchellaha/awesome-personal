@@ -187,6 +187,14 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 
 
 
+## IOS
+
+### Uncatagorized
+
+- [Trolstore](https://github.com/opa334/TrollStore) - iOS app that can install IPAs permanently
+
+
+
 ## Awesome Lists
 
 *Yo dawg, I heard you like awesome lists, so I put some awesome lists in your awesome list, so you can awesome list while you awesome list.*
