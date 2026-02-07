@@ -43,7 +43,8 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [Raindrop.io](https://raindrop.io/) - Bookmark Manager
 - [Bitwarden](https://bitwarden.com/) ⭐️ - Password Manager (Option to self-host, open-source, and cross-platform)
 - [Notion](https://www.notion.so/) ⭐️ - Knowledge Base, Note-Taking, Wiki, etc.
-- [Diagrams.net](https://www.diagrams.net/) - Diagramming Tool
+- [Excalidraw](excalidraw.com) - Diagramming & Whiteboarding Tool
+    - [Diagrams.net](https://www.diagrams.net/) - Diagramming Tool (More Technical) Runner Up
 - [CloudFlare](https://www.cloudflare.com/) - CDN, DNS, Security, etc.
 
 ### Terminal
