@@ -32,7 +32,7 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Browser (Chrome is a privacy nightmare & Safari is a Walled Garden of over-simplicity...)
 - [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
-- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) - IDEs (Rather Decent IDEs for larger projects)
+- [DataGrip](https://www.jetbrains.com/datagrip/) ❤️ - THE Database tool
 - [Postman](https://www.getpostman.com/) - API Development Platform
 - [Docker](https://www.docker.com/) - Containerization Platform
 
@@ -58,13 +58,6 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 
 *Also See [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)*
 
-#### Uncatagorized Applications
-
-- [PlayCover](https://github.com/PlayCover/PlayCover) - Install iOS Apps on macOS
-- [Final Cut Pro](https://www.apple.com/final-cut-pro/) - Video Editing Software
-- [Motion](https://www.apple.com/final-cut-pro/motion/) - Motion Graphics Software (Pretty Fun to Just Mess Around With)
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Photo Editor using Swift UI
-
 #### General Utilities / Tools
 
 - [Maccy](https://github.com/p0deje/Maccy) ❤️ - Clipboard Manager
@@ -73,7 +66,7 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [CotEditor](https://coteditor.com/) ❤️ - Text Editor (Similar to Notepad++)
 - [IINA](https://github.com/iina/iina) ⭐️ - Video Player (Alternative to VLC but with a better UI and more features)
 - [Raycast](https://raycast.com/) ⭐️ - Spotlight but make it good and with plugins
-- [AltTab](https://alt-tab-macos.netlify.app/) ⭐️ - Windows Like Alt-Tabbing
+- [AltTab](https://alt-tab-macos.netlify.app/) - Windows Like Alt-Tabbing
 - [CleanMyMac](https://cleanmymac.com/) - Clean, Optimize, and Maintain
 - [Unzip One](https://apps.apple.com/us/app/unarchiver-one-rar-zip-tool/id1127253508?mt=12) - Archive Manager (More Similar to 7zip than Keka) (Looking for something better still)
 - [Bartender4](https://www.macbartender.com/Bartender4/) ❤️ - Organize Your Menu Bar, Hide Unnecessary Icons
@@ -81,7 +74,7 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [Barrier](https://github.com/debauchee/barrier) - Share Mouse and Keyboard Between Computers.
     - [input-leap](https://github.com/input-leap/input-leap) is a fork of Barrier that is more actively developed.
 - [Mos](https://mos.caldis.me/) - Auto Switch between reverse scrolling and normal scrolling for a Mouse
-- [Proxyman](https://proxyman.io/) - Capture, Inspect, and Debug HTTP(S) traffic
+- [Proxyman](https://proxyman.io/) ❤️ - Capture, Inspect, Debug, Buy It, Break It, Reverse Engineer it because their ui sucks, bop it, twist it, pull it, commit it
 - [Royal TSX](https://royaltsx.com/) - Multiple remote protocols in one tabbed interface. (MobaXterm Similar)
 
 
@@ -97,6 +90,12 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [yabai](https://github.com/koekeishiya/yabai) ❤️ - Window Manager (Remove Focus Animation Delay on Desktop Change)
 - [skhd](https://github.com/koekeishiya/skhd) ❤️ - Hotkey Daemon (Custom Hotkeys. Compliments yabai)
 
+#### Uncatagorized Applications
+
+- [PlayCover](https://github.com/PlayCover/PlayCover) - Install iOS Apps on macOS
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/) - Video Editing Software
+- [Motion](https://www.apple.com/final-cut-pro/motion/) - Motion Graphics Software (Pretty Fun to Just Mess Around With)
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Photo Editor using Swift UI
 
 ### Windows Specific
 
