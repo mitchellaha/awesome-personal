@@ -67,8 +67,8 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [CotEditor](https://coteditor.com/) ❤️ - Text Editor (Similar to Notepad++)
 - [IINA](https://github.com/iina/iina) ⭐️ - Video Player (Alternative to VLC but with a better UI and more features)
 - [Raycast](https://raycast.com/) ⭐️ - Spotlight but make it good and with plugins
+- [tw93/Mole](https://github.com/tw93/Mole) ⭐️ - Clean, Optimize, and Maintain
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows Like Alt-Tabbing
-- [CleanMyMac](https://cleanmymac.com/) - Clean, Optimize, and Maintain
 - [Unzip One](https://apps.apple.com/us/app/unarchiver-one-rar-zip-tool/id1127253508?mt=12) - Archive Manager (More Similar to 7zip than Keka) (Looking for something better still)
 - [Bartender4](https://www.macbartender.com/Bartender4/) ❤️ - Organize Your Menu Bar, Hide Unnecessary Icons
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Collection of System Tweaks (Changing Launchpad Icon Count & Dock Reappear Speed)
