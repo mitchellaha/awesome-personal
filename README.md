@@ -52,6 +52,7 @@ A List of Lists that List Everything I Recommend and/or Use Personally.
 - [bpytop](https://github.com/aristocratos/bpytop) - System Monitor in Terminal
 - [pyenv](https://github.com/pyenv/pyenv) - Python Version Manager
 - [fnm](https://github.com/Schniz/fnm) - Fast Node Manager, Version Manager for NodeJS
+- [lsd](https://github.com/lsd-rs/lsd) - better ls
 
 
 
